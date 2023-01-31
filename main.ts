@@ -7,4 +7,4 @@ const parkingLotRepositoryMySQL = new ParkingLotRepositoryMySQL();
   console.log(response);
 })();
 
-console.log("main ");
+console.log("main test 2");
